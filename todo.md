@@ -1,0 +1,5 @@
+- make a few pages and a layout + add relative links
+- some kind of deploy infra to ipfs
+- maybe dnslink
+- docs / readme's
+- 
